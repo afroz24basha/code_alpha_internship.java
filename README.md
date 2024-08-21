@@ -1,7 +1,7 @@
 # Code_alpha_internship
 Code Alpha Project In java
 
-1. STUDENT GRADE TRACKER.
+1. STUDENT GRADE TRACKER
 
 2. STOCK TRADING PLATFROM
 
